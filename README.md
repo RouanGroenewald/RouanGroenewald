@@ -1,7 +1,8 @@
-## Hi there 👋 I am Rouan Groenewald 
+## Hi there 👋 I am Rouan
 <h1>
 🌱 I’m currently learning python 
 </h1>
+The Objective: Master Python fundamentals, Object-Oriented Programming (OOP), Data Handling, and Version Control.
 <!--
 **RouanGroenewald/RouanGroenewald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #
