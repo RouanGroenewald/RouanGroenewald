@@ -1,8 +1,15 @@
 ## Hi there 👋 I am Rouan
-<h1>
-🌱 I’m currently learning python 
-</h1>
-The Objective: Master Python fundamentals, Object-Oriented Programming (OOP), Data Handling, and Version Control.
+<h1>🌱 I’m currently learning python</h1>
+<p>The Objective: Master Python fundamentals, Object-Oriented Programming (OOP), Data Handling, and Version Control.</p>
+<h2>The Tech Stack & Primary Resources:</h2>
+<p>Visual Guide: Roadmap.sh/python.<br>
+Daily Micro-Coding: Coddy.tech/journeys/python.<br>
+Core Curriculum 1: Cisco NetAcad Python Essentials 1 (Variables, Loops, Functions).<br>
+Core Curriculum 2: Cisco NetAcad Python Essentials 2 (OOP, Modules, Exceptions).<br>
+AI/ML Bridge: Kaggle Learn (Pandas, Data Science).<br>
+Portfolio: GitHub (Version control and project hosting)
+</p>
+
 <!--
 **RouanGroenewald/RouanGroenewald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #
